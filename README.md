@@ -5,6 +5,8 @@
 
 This is our submission for the Neurotech@Rice track for Rice Datathon 2025. Here, we analyze an EEG (electroencephalogram) dataset from people with psychiatric disorders (Park et al., 2021) using the Random Forest classification model to predict diagnoses of patients who have had an EEG.
 
+At the end, we got 32.75% accuracy, which is good considering the time and data sample we were given.
+
 ## Running Our Code
 **To run our code, simply run `Datathon.ipynb` in full.** This program assumes you already have Numpy, MatPlotLib, Seaborn, Pandas, and scikit-learn installed in your environment, but will install imblearn for you.
 
